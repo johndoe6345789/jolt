@@ -29,17 +29,17 @@
         <java.minimum.version>1.8</java.minimum.version>
 
         <!-- core -->
-        <commons-lang3.version>3.18.0</commons-lang3.version>
+        <commons-lang3.version>3.20.0</commons-lang3.version>
         <javax-inject.version>1</javax-inject.version>
 
         <!-- module dependencies -->
-        <jackson.version>2.12.7.1</jackson.version>
+        <jackson.version>2.18.9</jackson.version>
         <guice.version>4.2.2</guice.version>
         <argparse4j.version>0.8.1</argparse4j.version>
 
         <!-- TEST -->
-        <guava.version>32.0.0-jre</guava.version>
-        <testng.version>7.5.1</testng.version>
+        <guava.version>33.6.0-jre</guava.version>
+        <testng.version>7.12.0</testng.version>
     </properties>
 
     <dependencyManagement>
